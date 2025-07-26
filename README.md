@@ -118,4 +118,4 @@ Please ensure your code adheres to a clean and readable style.
 
 ## 📜 License
 
-This project is open-source and licensed under the [MIT License](LICENSE.md).
+This project is open-source and licensed under the [MIT License](LICENSE).

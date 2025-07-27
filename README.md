@@ -1,7 +1,7 @@
 # dsc.pics Stats Extension
 
 <p align="center">
-  <!--a href="https://chrome.google.com/webstore/detail/" target="_blank"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?style=for-the-badge&logo=googlechrome" alt="Install from Chrome Web Store"></a-->
+  <a href="https://chromewebstore.google.com/detail/dscpics-global-stats/hgfcfjggpadjoaedngakcghlimbibmjk" target="_blank"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?style=for-the-badge&logo=googlechrome" alt="Install from Chrome Web Store"></a>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
   <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge" alt="Version 1.0">
 </p>
@@ -22,15 +22,13 @@ This Chrome extension provides a quick and convenient way to monitor the global 
 
 ## 🚀 Installation
 
-<!--
 ### From Chrome Web Store (Recommended)
 
 The easiest way to install the extension is directly from the Chrome Web Store:
 
-1.  Visit the [dsc.pics Stats Extension page](https://chrome.google.com/webstore/detail/) (Link will be updated once published).
+1.  Visit the [dsc.pics Stats Extension page](https://chromewebstore.google.com/detail/dscpics-global-stats/hgfcfjggpadjoaedngakcghlimbibmjk) (Link will be updated once published).
 2.  Click the "Add to Chrome" button.
 3.  Confirm the installation in the dialog box.
--->
 
 ### Manually (For Developers/Testing)
 

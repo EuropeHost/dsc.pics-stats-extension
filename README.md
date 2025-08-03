@@ -93,6 +93,7 @@ dsc_pics_stats_extension/
 ├── background.js       # Service worker script (runs in the background, fetches data)
 └── icons/              # Folder for extension icons (16x16, 48x48, 128x128 PNGs)
     ├── icon16.png
+    ├── icon32.png
     ├── icon48.png
     └── icon128.png
 ```
